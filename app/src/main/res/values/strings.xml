@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SWP</string>
+    <string name="_0123456789">0123456789</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="write_you_code_here">Write you code here...</string>
+    <string name="continueBtn">CONTINUE</string>
+</resources>
